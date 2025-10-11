@@ -3,7 +3,7 @@ An interactive Power BI dashboard providing insights into student hires, employe
 
 **Overview**
 
-This Power BI dashboard provides insights into student hires, employer partnerships, salary ranges, and academic engagement within the MAVS EDGE program. It enables stakeholders to monitor hiring trends, evaluate partner contributions, and track student outcomes across industries, majors, and colleges
+This Power BI dashboard provides insights into student hires, employer partnerships, salary ranges, and academic engagement within the MAVS EDGE program. It enables stakeholders to monitor hiring trends, evaluate partner contributions, and track student outcomes across industries, majors, and colleges.
 
 **Objectives**
 
